@@ -2,7 +2,6 @@
 import json
 import os
 from datetime import datetime
-import ipykernel 
 import yfinance as yf
 
 from crewai import Agent, Task, Crew, Process
